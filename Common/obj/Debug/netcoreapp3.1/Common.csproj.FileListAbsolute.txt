@@ -1,0 +1,17 @@
+F:\Allianz\BackEnd\ProductWebApp\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\Allianz\BackEnd\ProductWebApp\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\Allianz\BackEnd\ProductWebApp\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\Allianz\BackEnd\ProductWebApp\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Allianz\ProductWebApi\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\Allianz\ProductWebApi\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\Allianz\ProductWebApi\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\Allianz\ProductWebApi\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Allianz\ProductWebApi\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Allianz\ProductWebApi\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Allianz\ProductWebApi\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\Allianz\ProductWebApi\Common\obj\Debug\netcoreapp3.1\Common.pdb
